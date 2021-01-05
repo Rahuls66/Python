@@ -14,3 +14,8 @@ def time(word):
     print("The ideal time to write this word is",round(sum,2),"seconds!")
 
 time("i love cycling")
+
+"""
+Expected Output:
+The ideal time to write this word is 1.86 seconds!
+"""
