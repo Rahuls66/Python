@@ -1,3 +1,9 @@
+"""
+This program gives the ideal time required to type the input string
+Time to type each letter is based on my typing speed
+All time units in seconds
+"""
+
 alphabet = {"a":0.13, "b":0.14, "c":0.14, "d":0.15, \
 "e":0.14, "f":0.15, "g":0.13, "h":0.13, "i":0.14, "j":0.14, \
 "k":0.14, "l":0.13, "m":0.15, "n":0.12, "o":0.15, "p":0.13, \
