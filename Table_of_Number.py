@@ -1,4 +1,5 @@
 #Function to print Numeric Table for number returned from user
+
 def table (num):
     for j in range(1,11):    
         print(str(num) + " X " + str(j) + " = " + str(num*j))
