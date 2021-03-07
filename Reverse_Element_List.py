@@ -25,7 +25,7 @@ def reverse_num_list(num):
 reverse_num_list(11)
 
 #---------------OR--------------------
-#Using reversed range
+#Using reversed() function range
 
 def reverse_num_list(num):
     nums = []
