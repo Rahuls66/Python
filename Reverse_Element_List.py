@@ -12,7 +12,7 @@ def reverse_num_list(num):
 reverse_num_list(11)
 
 #---------------OR--------------------
-#Using reverse() method, only for numerical elements of list
+#Using Negative Slicing
 
 def reverse_num_list(num):
     nums = []
@@ -25,7 +25,7 @@ def reverse_num_list(num):
 reverse_num_list(11)
 
 #---------------OR--------------------
-#Using reverse() method, only for numerical elements of list
+#Using reversed range
 
 def reverse_num_list(num):
     nums = []
