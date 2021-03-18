@@ -4,3 +4,4 @@ Few abbreviation used in repository:
 1. HR = HackerRank
 2. GFG = GeeksForGeeks
 3. CoW = Code of Wars
+4. NP = NumPy
