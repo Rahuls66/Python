@@ -6,3 +6,4 @@ Few abbreviation used in repository:
 3. CoW = Code of Wars
 4. NP = NumPy
 5. GKS = Google KickStart
+6. SL = SoloLearn
