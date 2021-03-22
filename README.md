@@ -5,3 +5,4 @@ Few abbreviation used in repository:
 2. GFG = GeeksForGeeks
 3. CoW = Code of Wars
 4. NP = NumPy
+5. GKS = Google KickStart
