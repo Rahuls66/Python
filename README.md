@@ -7,3 +7,4 @@ Few abbreviation used in repository:
 4. NP = NumPy
 5. GKS = Google KickStart
 6. SL = SoloLearn
+7. CA = Class Assignment
