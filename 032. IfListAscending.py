@@ -1,4 +1,4 @@
-# Python function to check whether the list is in Ascending order or not
+# Python function to check whether the list is in ascending order or not
 
 def Ascending(l1):
   tempList = l1[:]
