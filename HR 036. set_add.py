@@ -1,6 +1,3 @@
-#HR
-#Unique Elements
-
 n = int(input())
 l1 = []
 for i in range(n):
