@@ -1,4 +1,4 @@
-#Find Calendar Weekday
+# Calendar Module
 
 import calendar
 m,d,y = map(int, input().split())
