@@ -8,3 +8,4 @@ Abbreviation used in repository:
 5. GKS = Google KickStart
 6. SL = SoloLearn
 7. CA = Class Assignment
+8. LC = LeetCode
