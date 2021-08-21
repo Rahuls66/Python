@@ -9,3 +9,5 @@ Abbreviation used in repository:
 6. SL = SoloLearn
 7. CA = Class Assignment
 8. LC = LeetCode
+
+![Repo Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Rahuls66/Python)
