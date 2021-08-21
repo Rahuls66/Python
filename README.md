@@ -11,4 +11,5 @@ Abbreviation used in repository:
 8. LC = LeetCode
 
 ![Repo Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Rahuls66/Python)
+
 ![Watchers](https://img.shields.io/github/watchers/Rahuls66/Python?style=social)
